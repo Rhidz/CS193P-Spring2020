@@ -9,5 +9,5 @@ Rules of playing [Sets](https://en.wikipedia.org/wiki/Set_(card_game))
 * MVVM 
 * Implicit and Explicit Transitions
 
-[ ! [Iphone Set Image] (/Users/admin/Desktop)]
+! [Iphone Set Image] (/Users/admin/Desktop/Iphone Set Image)
 
