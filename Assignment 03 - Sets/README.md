@@ -1,8 +1,9 @@
 # Sets 
 
-Sets - Assignment 03
+## Sets - Assignment 03
 
-Topics Covered 
+### Topics Covered 
+
 * View Modifier
 * Animation 
 * MVVM 
