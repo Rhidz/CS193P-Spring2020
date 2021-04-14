@@ -1,6 +1,6 @@
-# [Sets] (https://en.wikipedia.org/wiki/Set_(card_game))
+# Sets
 
-## Sets - Assignment 03
+Rules of playing [Sets](https://en.wikipedia.org/wiki/Set_(card_game))
 
 ### Topics Covered 
 
