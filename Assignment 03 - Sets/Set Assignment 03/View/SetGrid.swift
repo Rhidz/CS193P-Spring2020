@@ -38,7 +38,7 @@ struct SetGrid: View {
                     .padding(setCardPadding)
                         
                     .aspectRatio(1.5, contentMode: .fit)
-                    .shadow(color: Color.purple.opacity(0.50), radius: 7.0)
+                    .shadow(color: Color.purple.opacity(0.30), radius: 8.0)
                     .transition(AnyTransition.asymmetric(
                                     insertion: AnyTransition.offset(appear(from: geometry.size)),
                                     removal: AnyTransition.offset(dissappear(to: geometry.size))
