@@ -12,5 +12,5 @@ Rules of playing [Sets](https://en.wikipedia.org/wiki/Set_(card_game))
 * Transitions
 * @Viewbuilder, @State
 
-![](https://github.com/Rhidz/CS193P-Spring2020/blob/master/Assignment%2003%20-%20Sets/Screen.png)
+![](https://github.com/Rhidz/CS193P-Spring2020/blob/master/Assignment%2003%20-%20Sets/Selected.png)
 
